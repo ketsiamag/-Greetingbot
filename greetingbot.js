@@ -1,6 +1,6 @@
 const readline = require('readline');
 
-// Setup real-time input/output
+//  real-time input/output
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
