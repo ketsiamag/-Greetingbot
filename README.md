@@ -18,8 +18,7 @@ TeacherBot is a fun, interactive console-based chatbot built with JavaScript and
 - Node.js
 - Readline module (for user input/output in the terminal)
 
-## 📦 Getting Started
+ Getting Started
 
  1. Clone the repository
-
-`bash
+ 2. node greetingbot.js
